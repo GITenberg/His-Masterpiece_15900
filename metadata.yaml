@@ -51,6 +51,8 @@ description: "L'œuvre is the fourteenth novel in the Rougon-Macquart series by 
   \ (reprinted by Barnes & Noble in 2006); other translations have appeared since.\
   \ One of the most readily accessible is that by Thomas Walton (1957), revised in\
   \ 1993 for Oxford World's Classics.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15900#His-Masterpiece
 gutenberg_issued: '2005-05-25'
 gutenberg_type: Text
 identifiers:
